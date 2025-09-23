@@ -40,6 +40,9 @@ The dashboard is structured into **six main views**:
   * Contribution by product category & region
 * Purpose: Helps the finance team **track profitability and cost efficiency**.
 
+<img width="638" height="425" alt="image" src="https://github.com/user-attachments/assets/b6af5166-9541-43ab-81df-b74af685d042" />
+
+
 ---
 
 ### 3.  Sales View
@@ -52,6 +55,8 @@ The dashboard is structured into **six main views**:
   * Key metrics by products
   * Sales by region and country
 * Purpose: Supports the sales team in **identifying growth areas and weak points**.
+
+<img width="638" height="425" alt="image" src="https://github.com/user-attachments/assets/6d06ca39-88c7-44b9-b74f-1b230156183d" />
 
 ---
 
@@ -106,7 +111,13 @@ The dashboard is structured into **six main views**:
 
 ---
 
-## ⚙️ Tech Stack
+## Data modeling
+
+Proper relationships should be established among tables.
+
+<img width="638" height="400" alt="image" src="https://github.com/user-attachments/assets/a0fedb28-6e06-42b1-b9d3-c43d9cefdab8" />
+
+##  Tech Stack
 
 * **Power BI Desktop** for data modeling and visualization
 * **Power BI Service** for sharing and collaboration
@@ -117,9 +128,8 @@ The dashboard is structured into **six main views**:
 
 ##  Project Structure
 
-* `/data` – Sample datasets (non-confidential)
-* `/reports` – Power BI `.pbix` file
-* `/docs` – Documentation, screenshots, and README
+*  – Sample datasets (non-confidential)
+*  – README
 
 ---
 
