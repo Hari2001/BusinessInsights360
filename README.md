@@ -4,6 +4,8 @@
 
 This Power BI project provides a **comprehensive analytics solution** for an e-commerce business. It enables stakeholders to monitor performance, identify trends, and make data-driven decisions across multiple domains such as finance, sales, marketing, supply chain, and executive strategy.
 
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiZmY5MGQ0NzMtODQzZC00ZThmLTg2NmYtYzlhZDk5ODJmY2E1IiwidCI6ImVjYTg1Mjk5LTM4MTMtNDk1My1iNGIxLTAzMjJlYTUyZGNmMCJ9
+
 The dashboard is structured into **six main views**:
 
 * Home View
