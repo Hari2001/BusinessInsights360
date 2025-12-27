@@ -73,6 +73,8 @@ The dashboard is structured into **six main views**:
   * Performance matrix
 * Purpose: Enables the marketing team to **optimize campaigns and budgets**.
 
+<img width="638" height="425" alt="image" src="https://github.com/user-attachments/assets/c134c938-0c4d-42fa-ac70-bed9f055a672" />
+
 ---
 
 ### 5.  Supply Chain View
@@ -90,6 +92,9 @@ The dashboard is structured into **six main views**:
   * Metrics by products
   * Accuracy / Net error trend
 * Purpose: Helps operations team **optimize inventory**.
+
+<img width="638" height="425" alt="image" src="https://github.com/user-attachments/assets/67e031f6-679e-49f7-a6d8-0474c7222682" />
+
 
 ---
 
